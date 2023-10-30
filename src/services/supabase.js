@@ -6,3 +6,10 @@ const supabaseKey =
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 export default supabase;
+
+
+
+// WORKING QUERIES
+// -Activity name: Vet clinic database: create animals table
+// SELECT name from animals WHERE date_of_birth BETWEEN '2016-01-01' AND '2019-12-31';
+// SELECT * from animals WHERE weight_kg BETWEEN 10.40 AND 17.30;
