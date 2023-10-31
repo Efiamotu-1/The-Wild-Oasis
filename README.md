@@ -174,6 +174,4 @@ I would like to thank Jonas Schmedtmann for his `Ultimate React Udemy course` wh
 
 This project is [MIT](./LICENSE) licensed.
 
-[MIT license available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
