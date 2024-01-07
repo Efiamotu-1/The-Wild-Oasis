@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import styled from "styled-components";
+import Uploader from '../data/Uploader'
 import {
   HiOutlineCalendarDays,
   HiOutlineCog6Tooth,
@@ -88,6 +89,8 @@ function MainNav() {
           </StyledNavLink>
         </li>
       </NavList>
+
+      <Uploader />
     </nav>
   );
 }
